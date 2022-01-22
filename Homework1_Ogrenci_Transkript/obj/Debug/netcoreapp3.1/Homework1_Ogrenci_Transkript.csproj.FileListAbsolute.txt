@@ -1,0 +1,14 @@
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\bin\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.exe
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\bin\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.deps.json
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\bin\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.runtimeconfig.json
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\bin\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.runtimeconfig.dev.json
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\bin\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.dll
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\bin\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.pdb
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.csproj.AssemblyReference.cache
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.AssemblyInfoInputs.cache
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.AssemblyInfo.cs
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.csproj.CoreCompileInputs.cache
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.dll
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.pdb
+C:\Users\alicanmadan\source\repos\Homework1_Ogrenci_Transkript\Homework1_Ogrenci_Transkript\obj\Debug\netcoreapp3.1\Homework1_Ogrenci_Transkript.genruntimeconfig.cache
